@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSistema", "ApiSistema\ApiSistema.csproj", "{8E398409-4EF4-4467-AACE-0D44D36330DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E398409-4EF4-4467-AACE-0D44D36330DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E398409-4EF4-4467-AACE-0D44D36330DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E398409-4EF4-4467-AACE-0D44D36330DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E398409-4EF4-4467-AACE-0D44D36330DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF66B5BE-530A-4AAF-A5C2-7CEF0FAE3ED6}
+	EndGlobalSection
+EndGlobal
